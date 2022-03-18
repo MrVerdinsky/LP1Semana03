@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBiDim", "ArrayBiDim\ArrayBiDim.csproj", "{9D1BCFD5-D30B-4972-8B84-CA92C6A4978C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPCPerks", "NPCPerks\NPCPerks.csproj", "{346C4C55-7234-4880-B13D-7763D6D9EDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercorreString", "PercorreString\PercorreString.csproj", "{F8783FD5-F050-45CF-9C69-38F6BA35107B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1BCFD5-D30B-4972-8B84-CA92C6A4978C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1BCFD5-D30B-4972-8B84-CA92C6A4978C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1BCFD5-D30B-4972-8B84-CA92C6A4978C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1BCFD5-D30B-4972-8B84-CA92C6A4978C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346C4C55-7234-4880-B13D-7763D6D9EDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346C4C55-7234-4880-B13D-7763D6D9EDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346C4C55-7234-4880-B13D-7763D6D9EDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346C4C55-7234-4880-B13D-7763D6D9EDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8783FD5-F050-45CF-9C69-38F6BA35107B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8783FD5-F050-45CF-9C69-38F6BA35107B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8783FD5-F050-45CF-9C69-38F6BA35107B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8783FD5-F050-45CF-9C69-38F6BA35107B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
